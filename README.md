@@ -1,2 +1,0 @@
-# todo
-my todo list
